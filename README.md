@@ -36,4 +36,3 @@
 
   You can reach me at dianna.mack@yahoo.com for additional questions!
 
-  <iframe src="https://drive.google.com/file/d/14dtjiuDA5ywNmwdwVaQUJDSnKzja5yOK/preview" width="640" height="480"></iframe>
