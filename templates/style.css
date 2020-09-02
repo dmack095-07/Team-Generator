@@ -1,0 +1,22 @@
+
+
+#header{
+  background-color: rgb(223, 56, 56);
+  color: white;
+}
+
+.employee-card {
+  border-radius: 5px;
+  padding: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  margin: 5px;
+}
+
+
+@media only screen and (max-width: 
+700px) {
+  body {
+  /* The body's bg color will be bisque */
+    color: purple;
+  }
+} 
